@@ -1,0 +1,4 @@
+pandas==1.5.3
+pymongo==4.3.3
+snscrape==0.6.2.20230320
+streamlit==1.20.0
